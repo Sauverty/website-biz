@@ -22,6 +22,3 @@ It is designed to give visitors a clear overview of the company’s products, se
 - Works on any browser
 - No backend required
 - Deployable on any static hosting platform
-|--assets/
-| |--css/
-| | |--style.cs
